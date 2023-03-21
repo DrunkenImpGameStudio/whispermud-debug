@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, PlayerRoles } = require('ranvier');
+const { Broadcast, PlayerRoles } = require('whispermud-core');
 
 /**
  * Shut down the MUD from within the game.

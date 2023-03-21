@@ -1,6 +1,6 @@
 'use strict';
 
-const { Broadcast, PlayerRoles } = require('ranvier');
+const { Broadcast, PlayerRoles } = require('whispermud-core');
 
 module.exports = {
   aliases: ['tp'],

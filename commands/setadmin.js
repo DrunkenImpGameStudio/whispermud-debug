@@ -1,7 +1,7 @@
 'use strict';
 
-const { Broadcast, PlayerRoles } = require('ranvier');
-const Parser = require('../../bundle-example-lib/lib/ArgParser');
+const { Broadcast, PlayerRoles } = require('whispermud-core');
+const Parser = require('../../whispermud-lib/lib/ArgParser');
 
 module.exports = {
   requiredRole: PlayerRoles.ADMIN,
